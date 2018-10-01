@@ -1,0 +1,18 @@
+{
+  "name": "teacher",
+  "version": "1.0.0",
+  "description": "TMS - Teacher Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "johannes.mabulay@live.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4",
+    "npm": "^6.4.1"
+  }
+}
