@@ -242,7 +242,9 @@ exports.register = (req, res) => {
                     // console.log(result);                  
                     res.status(204).json()                  
                   }, err => {
-                    res.status(503).json({message:err.sqlMessage})
+                    // console.log(err)
+                    // res.status(503).json({message:err.sqlMessage})
+                    res.status(204).json()      
                   })
   
                 }, err => {

@@ -10,6 +10,7 @@
   "author": "johannes.mabulay@live.com",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "mysql": "^2.16.0",
     "nodemon": "^1.18.4",
