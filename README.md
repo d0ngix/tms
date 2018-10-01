@@ -9,3 +9,5 @@ DB_DATEBASE=tms<br>
 4. import to mysql - Dump20181002_tms.sql
 5. go to terminal and navigate inside to tms
 6. npm start
+# localhost endpoints
+- localhost:3000/api/
