@@ -5,10 +5,11 @@
 ```
 2. Create **.env** file inside tms forlder
 ```
-DB_HOST=localhost<br>
-DB_USER=root<br>
-DB_PASSWORD=root<br>
-DB_DATEBASE=tms<br>
+#.env file
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=root
+DB_DATEBASE=tms
 ```
 3. Import **Dump20181002_tms.sql** to your MySQL Server
 4. Open terminal and navigate inside tms
