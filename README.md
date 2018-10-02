@@ -1,3 +1,7 @@
+# Pre-requisite
+1. MySQL 5.7
+2. NodeJS v8.x
+
 # Teacher Management System (TMS)
 1. Clone tms
 ```
@@ -23,6 +27,3 @@ DB_DATEBASE=tms
 # localhost endpoints
 - localhost:3000/api/
 
-# Pre-requisite
-1. MySQL 5.7
-2. NodeJS v8.0
