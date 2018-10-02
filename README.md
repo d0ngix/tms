@@ -5,7 +5,6 @@
 ```
 2. Create **.env** file inside tms forlder
 ```
-#.env file
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=root
