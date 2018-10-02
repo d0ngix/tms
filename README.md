@@ -13,6 +13,10 @@ DB_DATEBASE=tms
 ```
 3. Import **Dump20181002_tms.sql** to your MySQL Server
 4. Open terminal and navigate inside tms
+5. Install **nodemon**
+```
+\>npm install -g nodemon
+```
 5. Start the tms 
 ```
 \>npm start
